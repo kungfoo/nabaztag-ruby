@@ -9,7 +9,7 @@ SOURCES = FileList["lib/**/*.rb"]
 
 spec = Gem::Specification.new do |s|
   s.name = "Nabaztag"
-  s.version = "0.3.0"
+  s.version = "0.3.1"
   s.author = "Paul Battley"
   s.email = "paulbattley@reevoo.com"
   s.summary = "Nabaztag communication library for Ruby."
